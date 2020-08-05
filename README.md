@@ -16,5 +16,5 @@ It is setup to aquire two seperate databases in the root database directory wher
   <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Small_House_Window.PNG">
  </p>
  <p align="center">
-  <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Save_As_Type.PNG">
+  <img border=1 src="https://github.com/geolime/Database_Retrieval_App/blob/master/Save_As_Type.PNG">
  </p>
