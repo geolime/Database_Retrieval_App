@@ -1,5 +1,5 @@
 # Widget GUI for integration with internal database infrastructure
-# Created by Leif Kuhre-Holmquist
+# Created by Leif Holmquist
 # Date: 2020-06-03
 
 # Check for tkinter wrappers to import
