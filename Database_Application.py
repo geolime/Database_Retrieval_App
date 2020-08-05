@@ -1,4 +1,4 @@
-# Widget GUI for integration with SAAREL database
+# Widget GUI for integration with internal database infrastructure
 # Created by Leif Kuhre-Holmquist
 # Date: 2020-06-03
 
