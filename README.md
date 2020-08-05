@@ -6,6 +6,9 @@ It is setup to aquire two seperate databases in the root database directory wher
 
 <p align="center">
   <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG">
+  <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Apartment_Window.PNG">
+  <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Small_House_Window.PNG">
+  <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Save_As_Type.PNG">
  </p>
 ![Database Selection Window](https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG)
 ![Apartment Database Window](https://github.com/geolime/Database_Retrieval_App/blob/master/Apartment_Window.PNG)
