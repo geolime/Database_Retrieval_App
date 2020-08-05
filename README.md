@@ -7,6 +7,7 @@ It is setup to aquire two seperate databases in the root database directory wher
 ## Example Application GUI Layout (various windows)
 ### Database Window
 
+
 <p align="center">
   <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG">
  </p>
