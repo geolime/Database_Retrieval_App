@@ -5,8 +5,8 @@ The purpose of this app is to access data in an SQL environment for research or 
 It is setup to aquire two seperate databases in the root database directory where a user can choose which to query.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG">
-  </p>
+  <img src="https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG">
+ </p>
 ![Database Selection Window](https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Window.PNG)
 ![Apartment Database Window](https://github.com/geolime/Database_Retrieval_App/blob/master/Apartment_Window.PNG)
 ![House Database Window](https://github.com/geolime/Database_Retrieval_App/blob/master/Small_House_Window.PNG)
