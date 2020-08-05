@@ -5,6 +5,8 @@ The purpose of this app is to access data in an SQL environment for research or 
 
 It is setup to aquire two seperate databases in the root database directory where a user can choose which to query.
 
+https://github.com/geolime/Database_Retrieval_App/blob/master/Database_Application.py
+
 ## Example Application GUI Layout (various windows)
 
 <p align="center">
